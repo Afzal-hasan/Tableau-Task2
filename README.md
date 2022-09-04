@@ -1,0 +1,2 @@
+# Tableau-Task2
+Problems:    1. Print the highest opening and the lowest closing values of each  month for Google.    2. Find the standard deviation of Volume per year for Netflix.    3. Find the difference between the opening values of Amazon and Apple.    4. Find the largest daily return for Amazon. (Daily return is  calculated by subtracting the opening price from the closing price)    5. Print the company name with the highest opening value for each day.
